@@ -10,7 +10,7 @@ Modules by sequence:
 
 Scaler:
     
-    0. Dare to Dream
+    0. Dare to Dream. [Preparation for Google and Microsoft]
 
     1. Introduction to Programming (Beginner)
     2. Programming Constructs (Intermediate)
