@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning Python and DSML from Scaler Academy and Python DSA from Coding Ninjas
 
+- I will publish codes and summary for the below mentioned modules while learning
+
 Modules by sequence: 
 
 Scaler:
